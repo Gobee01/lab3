@@ -1,2 +1,2 @@
 # lab3
-dummy project
+Dummy repo
