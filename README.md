@@ -1,2 +1,4 @@
 # lab3
-Dummy repo
+Dummy repository
+Testing for my lab work
+
